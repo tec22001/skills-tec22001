@@ -1,5 +1,8 @@
 ---
 title: Home
+
+subtitle: Thomas Cardinali
+
+body: Welcome to my professional portfolio!  I am a Mechanical Engineer graduating from the University of Connecticut in Spring 2026. With a current GPA of 3.656, I am enjoy design processes, aerodynamic problems, and doing hands-on projects.
 ---
 
-this is my homepage
