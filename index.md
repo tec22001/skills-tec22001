@@ -17,4 +17,4 @@ I have gained hands-on experience through both **internships** and **school proj
 ## Contact Information:
 - Email: thomas.cardinali@uconn.edu
 - Phone: 860-916-****
-- Location: Manchester, CT
+- Location: Storrs, CT
